@@ -38,4 +38,9 @@ ACePView views ACeP files and outputs a png copy to the same directory. Use as a
 <img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/colour-test-pattern-display.jpg" />
 
 ### Real image
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/test-img-display.jpg" />
+
+#### Source image (input)
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/15-9.jpg" height="600"/>
+
+#### Actual display
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/test-img-display.jpg" height="600"/>
