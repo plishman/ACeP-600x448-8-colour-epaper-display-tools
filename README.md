@@ -3,6 +3,8 @@
 ## ProcessACeP
 ProcessACeP uses imagemagick to process any image into an 8 colour dithered png, then into an ACeP file (raw 2px/byte format) for the ACeP colour epaper display. The palette provided to imagemagick is my best guess, and I think produces fairly good results (see how the black/white and colour gradients are reproduced on the display).
 
+Note that the output image is rotated 90 degrees, since the program is intended for input images that are portrait rather than landscape format, and the ACeP display's native bitmaps are landscape format.
+
 Copy the template/tools folder into the another folder, and place your images (any size/format supported by imagemagick) into a subfolder called "source" in the same folder. Then run ProcessACeP.exe. ProcessACeP.exe will output another file, processACeP.bat, which contains all of the commands to process the source images into ACeP files. Captions for Saint's feast days will be added from the file en-1962.txt if the filename of the source image is of the form <day>-<month>, eg. 14-9.jpg would be 14th September.
 
 ## makeACeP
@@ -14,12 +16,12 @@ ACePView views ACeP files and outputs a png copy to the same directory. Use as a
 ## Sample output
 ### Monochrome gradient (may show moire patterns in Github due to scaling, not present in fullsize image)
 #### Input
-![Preview1](./template/source/test.png)
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/source/test.png" width="600px"></img>
 #### Output
-![Preview2](./template/dithered/test.png)
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/dithered/test.png" height="600px"></img>
 
 ### Colour gradient
 #### Input
-![Preview3](./template/source/test4.png)
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/source/test4.png" width="600px"></img>
 #### Output
-![Preview4](./template/dithered/test4.png)
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/dithered/test4.png" height="600px"></img>
