@@ -14,17 +14,25 @@ Turns any common image file format (png, jpg, gif etc) into a 600x448 pixel raw 
 ACePView views ACeP files and outputs a png copy to the same directory. Use as a sanity check to make sure that the result of processing with ProcessACeP worked.
 
 ## Sample output
+
 ### Monochrome gradient (may show moire patterns in Github due to scaling, not present in fullsize image)
+
 #### Input
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/bw test pattern-input.png" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/bw-test-pattern-input.png"/>
+
 #### Output
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/bw test pattern-output.png" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/bw-test-pattern-output.png"/>
+
 #### Actual display
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/bw test pattern-display.jpg" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/bw-test-pattern-display.jpg"/>
+
 ### Colour gradient
+
 #### Input
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-input.png" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/colour-test-pattern-input.png" />
+
 #### Output
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-output.png" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/colour-test-pattern-output.png" />
+
 #### Actual display
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-display.jpg" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test-patterns/colour-test-pattern-display.jpg" />
