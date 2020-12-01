@@ -10,3 +10,16 @@ Turns any common image file format (png, jpg, gif etc) into a 600x448 pixel raw 
 
 ## ACePView
 ACePView views ACeP files and outputs a png copy to the same directory. Use as a sanity check to make sure that the result of processing with ProcessACeP worked.
+
+## Sample output
+### Monochrome gradient (may show moire patterns in Github due to scaling, not present in fullsize image)
+#### Input
+![Preview1](./template/source/test.png)
+#### Output
+![Preview2](./template/dithered/test.png)
+
+### Colour gradient
+#### Input
+![Preview3](./template/source/test4.png)
+#### Output
+![Preview4](./template/dithered/test4.png)
