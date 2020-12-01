@@ -1,0 +1,4 @@
+﻿  makeACeP.c
+c:\users\phil lishman\documents\visual studio 2017\projects\makeacep\makeacep\makeacep.c(5): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\phil lishman\documents\visual studio 2017\projects\makeacep\makeacep\makeacep.c: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  makeACeP.vcxproj -> C:\Users\Phil Lishman\Documents\Visual Studio 2017\Projects\makeACeP\Debug\makeACeP.exe
