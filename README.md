@@ -20,11 +20,11 @@ ACePView views ACeP files and outputs a png copy to the same directory. Use as a
 #### Output
 <img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/bw test pattern-output.png" width="600px"></img>
 #### Actual display
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/bw test pattern-display.png" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/bw test pattern-display.jpg" width="600px"></img>
 ### Colour gradient
 #### Input
 <img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-input.png" width="600px"></img>
 #### Output
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-input.png" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-output.png" width="600px"></img>
 #### Actual display
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-input.png" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-display.jpg" width="600px"></img>
