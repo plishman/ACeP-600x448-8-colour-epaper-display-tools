@@ -24,4 +24,4 @@ ACePView views ACeP files and outputs a png copy to the same directory. Use as a
 #### Input
 <img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/source/test4.png" width="600px"></img>
 #### Output
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/source/test4.png" height="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/dithered/test4.png" height="600px"></img>
