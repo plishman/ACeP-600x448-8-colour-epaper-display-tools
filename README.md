@@ -16,15 +16,15 @@ ACePView views ACeP files and outputs a png copy to the same directory. Use as a
 ## Sample output
 ### Monochrome gradient (may show moire patterns in Github due to scaling, not present in fullsize image)
 #### Input
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/source/test.png" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/bw test pattern-input.png" width="600px"></img>
 #### Output
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/dithered/test.png" height="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/bw test pattern-output.png" width="600px"></img>
 #### Actual display
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/bw test pattern-display.jpg" height="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/bw test pattern-display.png" width="600px"></img>
 ### Colour gradient
 #### Input
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/source/test4.png" width="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-input.png" width="600px"></img>
 #### Output
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/template/dithered/test4.png" height="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-input.png" width="600px"></img>
 #### Actual display
-<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/colour test pattern-display.jpg" height="600px"></img>
+<img src="https://github.com/plishman/ACeP-600x448-8-colour-epaper-display-tools/blob/main/test patterns/colour test pattern-input.png" width="600px"></img>
