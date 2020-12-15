@@ -1,4 +1,4 @@
-# Some tools for processing images for use with the 7/8 colour Waveshare ACeP display (Windows)
+# Some tools for processing images for use with the 7/8 colour ACeP and 4.2in black/white/red Waveshare displays (Windows)
 
 ## ProcessACeP
 ProcessACeP uses imagemagick to process any image into an 8 colour dithered png, then into an ACeP file (raw 2px/byte format) for the ACeP colour epaper display. The palette provided to imagemagick is my best guess, and I think produces fairly good results (see how the black/white and colour gradients are reproduced on the display).
